@@ -30,6 +30,8 @@ This is a Java-based desktop application designed for taking quizzes on various 
 
 ![Screenshot 2024-08-27 153423](https://github.com/user-attachments/assets/2e74cd98-2e6d-4b13-a355-c6c34d24742f)
 
+![Screenshot 2024-08-27 230014](https://github.com/user-attachments/assets/59bc6f4e-a2d2-47c1-b6e3-9f62b6feb8d8)
+
 
 ## Tech Stack
 
